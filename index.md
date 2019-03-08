@@ -1,5 +1,5 @@
 
-![Ameek Bindra](Ameek Bindra.png)
+![Ameek Bindra](Ameeki.github.io/Ameek Bindra.png)
 # Ameek Kaur Bindra
 
 ## Welcome to my Personal Site
