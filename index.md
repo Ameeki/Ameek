@@ -10,3 +10,14 @@ My name is Ameek Bindra and I am an undergraduate at the University of Californi
 
 ### Contact Me
 ameekbindra[at]berkeley[dot]edu
+
+<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/projects">Projects</a></li>
+        		<li><a href="/experience">Experience</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
