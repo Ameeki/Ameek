@@ -1,7 +1,7 @@
 ![Ameek Bindra](
         Ameeki.github.io/Ameek.JPG
       )
-            
+      
 # Ameek Kaur Bindra
 
 ## Welcome to my Personal Site
