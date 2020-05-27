@@ -5,8 +5,8 @@ I am an undergraduate student at the University of California, Berkeley 󠁵󠁳
 <br /> Currently, I'm on a pre-medical track with interests in computational biology, public health and data visualizations.
 
 ## 👩🏽‍💻Welcome to my Personal Site
-Learn more about the projects I have worked on, the experiences I have had, and my other interests.
+Learn more about my projects, experiences, and other interests.
 
 ### Contact Me  ☎️
-ameekbindra[at]berkeley[dot]edu
+'ameekbindra@berkeley.edu'
 <br /> +1 (609) 865-5870
