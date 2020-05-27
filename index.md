@@ -1,3 +1,4 @@
+<img style="float: right;" src="Ameek.jpg">
 ![Me](Ameek.png "Me!"){: .center-image }
       
 # Hello, I'm Ameek 👋🏽
