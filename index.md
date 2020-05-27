@@ -1,5 +1,4 @@
-![Me](Ameek.png)
-      
+
 # Hello, I'm Ameek 👋🏽
 ### 👩🏽‍💻Welcome to my Personal Site
 I am an undergraduate student at the University of California, Berkeley 󠁵󠁳󠁣󠁡󠁿☀️ studying Data Science 📈 and Human Biology 🔬. 
