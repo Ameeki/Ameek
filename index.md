@@ -1,4 +1,4 @@
-<width ="200" height ="100" img style= "float: right;" src = Ameek.png>
+<img style= "float: right;" src = Ameek.png; width ="200" height ="100" >
       
 # Hello, I'm Ameek 👋🏽
 ### 👩🏽‍💻Welcome to my Personal Site
