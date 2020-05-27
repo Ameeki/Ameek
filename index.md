@@ -8,5 +8,5 @@ I am an undergraduate student at the University of California, Berkeley 󠁵󠁳
 Learn more about my projects, experiences, and other interests.
 
 ### Contact Me  ☎️
-'ameekbindra@berkeley.edu'
+`ameekbindra@berkeley.edu`
 <br /> +1 (609) 865-5870
