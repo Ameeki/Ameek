@@ -1,4 +1,4 @@
-![Me](Ameeki.github.io/Ameek.JPG)
+![Me](Ameeki.github.io/Ameek.png)
       
 # Hello, I'm Ameek 👋🏽
 I am an undergraduate student at the University of California, Berkeley 󠁵󠁳󠁣󠁡󠁿☀️ studying Data Science 📈 and Human Biology 🔬. 
