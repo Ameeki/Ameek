@@ -4,8 +4,9 @@
 
 ## 👩🏽‍💻 Welcome to my Personal Site
 
-I am an undergraduate student at the University of California, Berkeley 🏴󠁵󠁳󠁣󠁡󠁿studying Data Science 🔢 and Human Biology 🔬 with a concentration in Neuroscience. I am on a pre-medical track 🩺 with an interest in computational biology, public health and data visualizations.
+I am an undergraduate student at the University of California, Berkeley 🚎 󠁵󠁳󠁣󠁡󠁿studying Data Science 🖥️ and Human Biology 🔬. 
+/n I am on a pre-medical track 🩺 with an interest in computational biology, public health and data visualizations.
 
-### Contact Me ☎️
+### Contact Me  ☎️
 ameekbindra[at]berkeley[dot]edu
-+1 (609) 865-5870
+/n +1 (609) 865-5870
