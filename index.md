@@ -1,5 +1,5 @@
 <img src = Ameeki/Ameeki.github.io/Ameek.png alt="Me"
-	title="Me" width="150" height="100" />
+	title="Me" width="150" height="100" style="float: left; margin-right: 10px;" />
       
 # Hello, I'm Ameek 👋🏽
 I am an undergraduate student at the University of California, Berkeley 󠁵󠁳󠁣󠁡󠁿:sunny: studying Data Science :chart_with_upwards_trend: and Human Biology :microscope:. 
