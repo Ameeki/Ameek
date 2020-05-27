@@ -1,4 +1,4 @@
-<img style= "float: right;" src = Ameek.png; width ="200" height ="100" >
+![Me](Ameek.png)
       
 # Hello, I'm Ameek 👋🏽
 ### 👩🏽‍💻Welcome to my Personal Site
