@@ -1,4 +1,4 @@
-![Me](Ameek.png){:class="img-responsive"}
+![Me](Ameek.png)
       
 # Hello, I'm Ameek 👋🏽
 ### 👩🏽‍💻Welcome to my Personal Site
