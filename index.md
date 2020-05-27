@@ -1,5 +1,4 @@
 <img style= "float: right;" src = Ameek.png>
-![Me](Ameek.png "Me!"){: .center-image }
       
 # Hello, I'm Ameek 👋🏽
 ### 👩🏽‍💻Welcome to my Personal Site
